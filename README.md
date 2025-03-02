@@ -39,4 +39,3 @@ let arrToStr = mixedTypes.join();
 console.log(mixedTypes);
 console.log(arrToStr);
 
-##Author lishyamuchiri
